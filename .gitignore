@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+dist-electron/
+out/
+release/
+
+# electron-vite cache
+.vite/
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+*.log*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ESLint cache
+.eslintcache
