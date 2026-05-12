@@ -75,7 +75,7 @@ The entire interface is available in **French** and **English**, switchable inst
 
 ### Pre-built
 
-Download the latest installer from [Releases](#):
+Download the latest installer from [Releases](https://github.com/NewNekoy/OpenPatrimoine/releases):
 
 - **Windows** → `OpenPatrimoine-x.x.x-setup.exe`
 - **macOS** → `OpenPatrimoine-x.x.x.dmg`
@@ -85,7 +85,7 @@ Download the latest installer from [Releases](#):
 
 ```bash
 # Clone the repository
-git clone https://github.com/HugoHaymann/openpatrimoine.git
+git clone https://github.com/NewNekoy/openpatrimoine.git
 cd openpatrimoine
 
 # Install dependencies
