@@ -47,7 +47,6 @@ export default function TenantsPage() {
     }
   }
 
-  const activeTenants = tenants.filter(isActive).length
   const subtitle = tenants.length === 1
     ? t('tenants.subtitleOne', { count: tenants.length })
     : t('tenants.subtitleMany', { count: tenants.length })
