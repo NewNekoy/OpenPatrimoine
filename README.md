@@ -17,6 +17,17 @@
 
 ---
 
+## Aperçu
+
+<div align="center">
+  <img src="docs/screenshots/Dashboard.png" alt="Dashboard" width="49%" />
+  <img src="docs/screenshots/Propriétés.png" alt="Biens immobiliers" width="49%" />
+  <img src="docs/screenshots/Loyers.png" alt="Suivi des loyers" width="49%" />
+  <img src="docs/screenshots/Suivi.png" alt="Analyse & graphiques" width="49%" />
+</div>
+
+---
+
 OpenPatrimoine est une application desktop pour les propriétaires bailleurs qui veulent garder le contrôle de leur patrimoine immobilier **sans abonnement, sans cloud, sans compromis sur la confidentialité**. Toutes vos données restent sur votre machine.
 
 ## Ce qu'elle fait

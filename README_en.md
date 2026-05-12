@@ -17,6 +17,17 @@
 
 ---
 
+## Screenshots
+
+<div align="center">
+  <img src="docs/screenshots/Dashboard.png" alt="Dashboard" width="49%" />
+  <img src="docs/screenshots/Propriétés.png" alt="Properties" width="49%" />
+  <img src="docs/screenshots/Loyers.png" alt="Rent tracking" width="49%" />
+  <img src="docs/screenshots/Suivi.png" alt="Analytics & charts" width="49%" />
+</div>
+
+---
+
 OpenPatrimoine is a desktop application for landlords who want to stay in control of their real estate portfolio **without subscriptions, without the cloud, without compromising on privacy**. All your data stays on your machine.
 
 ## What it does
