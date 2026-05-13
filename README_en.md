@@ -20,6 +20,10 @@
 ## Screenshots
 
 <div align="center">
+  <video src="docs/videos/demo.mp4" autoplay loop muted width="100%"></video>
+</div>
+
+<div align="center">
   <img src="docs/screenshots/Dashboard.png" alt="Dashboard" width="49%" />
   <img src="docs/screenshots/Propriétés.png" alt="Properties" width="49%" />
   <img src="docs/screenshots/Loyers.png" alt="Rent tracking" width="49%" />
