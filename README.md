@@ -20,7 +20,7 @@
 ## Aperçu
 
 <div align="center">
-  <video src="docs/videos/demo.mp4" autoplay loop muted width="100%"></video>
+  <video src="docs/videos/Demo.mp4" autoplay loop muted width="100%"></video>
 </div>
 
 <div align="center">
