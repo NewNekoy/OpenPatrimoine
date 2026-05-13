@@ -20,7 +20,7 @@
 ## Screenshots
 
 <div align="center">
-  <video src="docs/videos/demo.gif" autoplay loop muted width="100%"></video>
+  <img src="docs/videos/demo.gif" alt="OpenPatrimoine demo" width="100%" />
 </div>
 
 <div align="center">
